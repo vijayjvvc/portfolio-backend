@@ -4,70 +4,70 @@
   "projects": [
     {
       "id": 1,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "WeatherApp",
       "description": "A simple weather application that fetches weather data using APIs and displays it in a user-friendly manner.",
       "detailed_des": ""
     },
     {
       "id": 2,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Foodie",
       "description": "A food recipe app where users can search, save, and share their favorite recipes.",
       "detailed_des": ""
     },
     {
       "id": 3,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "ChatMaster",
       "description": "A real-time chat application with user authentication, real-time messaging, and group chats.",
       "detailed_des": ""
     },
     {
       "id": 4,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "TaskMaster",
       "description": "A task management app to help users organize tasks and set deadlines with notifications.",
       "detailed_des": ""
     },
     {
       "id": 5,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Fitness Tracker",
       "description": "An app to track fitness activities, set goals, and monitor progress.",
       "detailed_des": ""
     },
     {
       "id": 6,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Expense Tracker",
       "description": "A finance management app that helps users track their expenses and budget.",
       "detailed_des": ""
     },
     {
       "id": 7,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Meditation Guide",
       "description": "An app to guide users through meditation and mindfulness exercises.",
       "detailed_des": ""
     },
     {
       "id": 8,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "News Reader",
       "description": "An app to read and stay updated on the latest news from various sources.",
       "detailed_des": ""
     },
     {
       "id": 9,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "QR Scanner",
       "description": "A QR code scanner that allows users to quickly scan and save information from codes.",
       "detailed_des": ""
     },
     {
       "id": 10,
-      "project_src": "../assets/images/project.jpg",
+      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Expense Splitter",
       "description": "An app to split bills and expenses between multiple users in a group.",
       "detailed_des": ""
