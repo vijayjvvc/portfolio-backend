@@ -4,29 +4,29 @@
   "projects": [
     {
       "id": 1,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "WeatherApp",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/clockmastermain.png",
+      "title": "Clock Master",
       "description": "A simple weather application that fetches weather data using APIs and displays it in a user-friendly manner.",
       "detailed_des": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><meta name='description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs. Built with modern Android technologies.'><meta name='author' content='Vijay Mudgal'><meta property='og:title' content='WeatherApp - Project Details'><meta property='og:description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs.'><meta property='og:image' content='https://example.com/thumbnail.jpg'><meta property='og:url' content='https://github.com/username/WeatherApp'><meta name='twitter:card' content='summary_large_image'><meta name='twitter:title' content='WeatherApp - Project Details'><meta name='twitter:description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs.'><meta name='twitter:image' content='https://example.com/thumbnail.jpg'><title>WeatherApp - Project by Vijay Mudgal</title><style>body { font-family: Arial, sans-serif; background-color: #1D232A; margin: 0; padding: 0; color: #fff; } .container { width: 90%; margin: 0 auto; padding: 20px; } h1, h2 { color: #fff; } p { line-height: 1.6; } .project-header { background-color: #2A353B; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #6B7684; transition: all 0.3s ease; } .project-header:hover { border-color: #3498db; box-shadow: 0 4px 16px rgba(52, 152, 219, 0.6); } .project-header h1 { font-size: 2.5em; margin: 0; } .project-header p { font-size: 1.2em; color: #BDC3C7; } .github-link { display: inline-block; margin-top: 10px; background-color: #3498db; color: #fff; padding: 10px 15px; text-decoration: none; border-radius: 4px; font-weight: bold; } .github-link:hover { background-color: #2980b9; } .tech-stack { background-color: #2A353B; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; } .tech-stack ul { list-style-type: none; padding: 0; } .tech-stack ul li { background-color: #f4f4f4; margin: 5px 0; padding: 10px; border-radius: 4px; } .overview, .features { background-color: #2A353B; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; }</style></head><body><div class='container'><div class='project-header'><h1>WeatherApp</h1><p>A simple weather application that fetches weather data using APIs and displays it in a user-friendly manner. Developed by Vijay Mudgal.</p><a class='github-link' href='https://github.com/username/WeatherApp' target='_blank'>View on GitHub</a></div><div class='overview'><h2>Overview</h2><p>This app fetches real-time weather data from various APIs and displays it in an easy-to-read format. Users can check the weather based on their location or search for other cities globally. The app includes features like temperature, humidity, wind speed, and weather conditions, all in one interface.</p></div><div class='tech-stack'><h2>Tech Stack</h2><ul><li>Java</li><li>Retrofit</li><li>Android SDK</li><li>Google Maps API</li><li>Firebase</li></ul></div><div class='features'><h2>Features</h2><ul><li><strong>Real-time weather data:</strong> Fetches current weather conditions from a reliable source.</li><li><strong>Location-based forecast:</strong> Displays weather based on the user's location or search query.</li><li><strong>Temperature, humidity, and wind speed:</strong> Offers detailed metrics about the weather.</li><li><strong>Intuitive UI:</strong> Simple and easy-to-use design to navigate the app's features.</li></ul></div></div></body></html>"
     },
     {
       "id": 2,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "Foodie",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/jstanmain.png",
+      "title": "J-stan",
       "description": "A food recipe app where users can search, save, and share their favorite recipes.",
       "detailed_des": ""
     },
     {
       "id": 3,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "ChatMaster",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/soundscapemain.png",
+      "title": "Soundscape",
       "description": "A real-time chat application with user authentication, real-time messaging, and group chats.",
       "detailed_des": ""
     },
     {
       "id": 4,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "TaskMaster",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/speakercleanermain.png",
+      "title": "Speaker Cleaner",
       "description": "A task management app to help users organize tasks and set deadlines with notifications.",
       "detailed_des": ""
     },
@@ -39,8 +39,8 @@
     },
     {
       "id": 6,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "Expense Tracker",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/wall4allmain.png",
+      "title": "Wall4All - Wallpaper 4k",
       "description": "A finance management app that helps users track their expenses and budget.",
       "detailed_des": ""
     },
