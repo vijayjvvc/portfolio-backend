@@ -5,56 +5,64 @@
     {
       "id": 1,
       "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/clockmastermain.png",
-      "title": "Clock Master",
-      "description": "A simple weather application that fetches weather data using APIs and displays it in a user-friendly manner.",
+      "title": "Clock Master - Custom Clock",
+      "tag": "Development",
+      "description": "Clock Master is the ultimate time utility app, combining five essential functions in one convenient package. With Timmer, World Clock, Alarm, Stopwatch & Always On Display this app has everything you need to manage time effectively and stay organized.",
       "detailed_des": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><meta name='description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs. Built with modern Android technologies.'><meta name='author' content='Vijay Mudgal'><meta property='og:title' content='WeatherApp - Project Details'><meta property='og:description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs.'><meta property='og:image' content='https://example.com/thumbnail.jpg'><meta property='og:url' content='https://github.com/username/WeatherApp'><meta name='twitter:card' content='summary_large_image'><meta name='twitter:title' content='WeatherApp - Project Details'><meta name='twitter:description' content='WeatherApp by Vijay Mudgal - A weather forecasting app that provides real-time weather information using APIs.'><meta name='twitter:image' content='https://example.com/thumbnail.jpg'><title>WeatherApp - Project by Vijay Mudgal</title><style>body { font-family: Arial, sans-serif; background-color: #1D232A; margin: 0; padding: 0; color: #fff; } .container { width: 90%; margin: 0 auto; padding: 20px; } h1, h2 { color: #fff; } p { line-height: 1.6; } .project-header { background-color: #2A353B; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #6B7684; transition: all 0.3s ease; } .project-header:hover { border-color: #3498db; box-shadow: 0 4px 16px rgba(52, 152, 219, 0.6); } .project-header h1 { font-size: 2.5em; margin: 0; } .project-header p { font-size: 1.2em; color: #BDC3C7; } .github-link { display: inline-block; margin-top: 10px; background-color: #3498db; color: #fff; padding: 10px 15px; text-decoration: none; border-radius: 4px; font-weight: bold; } .github-link:hover { background-color: #2980b9; } .tech-stack { background-color: #2A353B; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; } .tech-stack ul { list-style-type: none; padding: 0; } .tech-stack ul li { background-color: #f4f4f4; margin: 5px 0; padding: 10px; border-radius: 4px; } .overview, .features { background-color: #2A353B; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; }</style></head><body><div class='container'><div class='project-header'><h1>WeatherApp</h1><p>A simple weather application that fetches weather data using APIs and displays it in a user-friendly manner. Developed by Vijay Mudgal.</p><a class='github-link' href='https://github.com/username/WeatherApp' target='_blank'>View on GitHub</a></div><div class='overview'><h2>Overview</h2><p>This app fetches real-time weather data from various APIs and displays it in an easy-to-read format. Users can check the weather based on their location or search for other cities globally. The app includes features like temperature, humidity, wind speed, and weather conditions, all in one interface.</p></div><div class='tech-stack'><h2>Tech Stack</h2><ul><li>Java</li><li>Retrofit</li><li>Android SDK</li><li>Google Maps API</li><li>Firebase</li></ul></div><div class='features'><h2>Features</h2><ul><li><strong>Real-time weather data:</strong> Fetches current weather conditions from a reliable source.</li><li><strong>Location-based forecast:</strong> Displays weather based on the user's location or search query.</li><li><strong>Temperature, humidity, and wind speed:</strong> Offers detailed metrics about the weather.</li><li><strong>Intuitive UI:</strong> Simple and easy-to-use design to navigate the app's features.</li></ul></div></div></body></html>"
     },
     {
       "id": 2,
       "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/jstanmain.png",
       "title": "J-stan",
-      "description": "A food recipe app where users can search, save, and share their favorite recipes.",
+      "tag": "Development & Design",
+      "description": "Locally Network Movies streaming system for house,office movie night",
       "detailed_des": ""
     },
     {
       "id": 3,
       "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/soundscapemain.png",
-      "title": "Soundscape",
-      "description": "A real-time chat application with user authentication, real-time messaging, and group chats.",
+      "title": "Soundscape - Sleep & Meditate",
+      "tag": "Development",
+      "description": "Step into a realm of tranquility with Soundscape, your all-encompassing companion for every mood and need. Immerse yourself in a carefully curated selection of sounds, meticulously designed to dissolve stress and cater to every mood and need. Craft personalized mixes using nature sounds, ambient melodies, and calming tones to create your unique auditory haven.",
       "detailed_des": ""
     },
     {
       "id": 4,
       "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/speakercleanermain.png",
       "title": "Speaker Cleaner",
-      "description": "A task management app to help users organize tasks and set deadlines with notifications.",
+      "tag": "Development",
+      "description": "The Speaker Cleaner uses powerful sound wave frequencies to remove water and dust from the phone’s speaker and improve the overall quality, reducing any muffled sound.",
       "detailed_des": ""
     },
     {
       "id": 5,
       "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "Fitness Tracker",
-      "description": "An app to track fitness activities, set goals, and monitor progress.",
+      "title": "Font Fusion - Stylish Keyboard",
+      "tag": "Development",
+      "description": "Font Fusion is a powerful and versatile keyboard app that allows you to express yourself in a unique and creative way. With an extensive collection of stylish fonts, customizable keyboard themes, and an added bonus of kaomoji, you can truly elevate your messages to the next level.",
       "detailed_des": ""
     },
     {
       "id": 6,
       "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/wall4allmain.png",
-      "title": "Wall4All - Wallpaper 4k",
-      "description": "A finance management app that helps users track their expenses and budget.",
+      "title": "Wall4All - Wallpaper Hub",
+      "tag": "Development",
+      "description": "Wall4All is the ultimate wallpapers & ringtones app designed to bring your screen to life. With a vast collection of handpicked wallpapers, we offer a diverse range of options to suit every taste and preference. Whether you're a nature lover, a fan of abstract art, a sports enthusiast, or simply looking for a captivating background, Wall4All has you covered.",
       "detailed_des": ""
     },
     {
       "id": 7,
       "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
-      "title": "Meditation Guide",
-      "description": "An app to guide users through meditation and mindfulness exercises.",
+      "title": "App Analytics",
+      "tag": "Development & Design System",
+      "description": "At App Analytics, we strive to revolutionize mobile app testing by offering developers and QAs a seamless platform to deliver high-quality applications efficiently. Our advanced testing infrastructure enables comprehensive testing across 1,500+ mobile devices and browsers, helping teams ensure compatibility, performance, and reliability for their apps.",
       "detailed_des": ""
     },
     {
       "id": 8,
       "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "News Reader",
+      "tag": "Development",
       "description": "An app to read and stay updated on the latest news from various sources.",
       "detailed_des": ""
     },
@@ -62,6 +70,7 @@
       "id": 9,
       "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "QR Scanner",
+      "tag": "Development",
       "description": "A QR code scanner that allows users to quickly scan and save information from codes.",
       "detailed_des": ""
     },
@@ -69,6 +78,7 @@
       "id": 10,
       "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
       "title": "Expense Splitter",
+      "tag": "Development",
       "description": "An app to split bills and expenses between multiple users in a group.",
       "detailed_des": ""
     }
