@@ -4,7 +4,7 @@
   "projects": [
     {
       "id": 1,
-      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/clockmastermain.png",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/cm_card.png",
       "title": "Clock Master - Custom Clock",
       "tag": "Development",
       "description": "Clock Master is a versatile time utility app that combines five essential time management functions: Timer, World Clock, Alarm, Stopwatch, and Always On Display, all in one package.",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/soundscapemain.png",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/ss_card.png",
       "title": "Soundscape - Sleep & Meditate",
       "tag": "Development",
       "description": "Soundscape is your all-in-one companion for relaxation and well-being, offering personalized mixes of soothing sounds, ambient melodies, and calming tones to cater to every mood and need.",
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/speakercleanermain.png",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/sc_card.png",
       "title": "Speaker Cleaner",
       "tag": "Development",
       "description": "Speaker Cleaner is a native Java app that uses sound wave frequencies to clean phone speakers by removing water and dust, enhancing sound clarity.",
@@ -36,7 +36,7 @@
     },
     {
       "id": 5,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/ff_card.png",
       "title": "Font Fusion - Stylish Keyboard",
       "tag": "Development",
       "description": "Font Fusion is a powerful and versatile native Java keyboard app that offers stylish fonts, custom themes, kaomojis, and text decorations to express your individuality.",
@@ -44,7 +44,7 @@
     },
     {
       "id": 6,
-      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/wall4allmain.png",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/ss_card.png",
       "title": "Wall4All - Wallpaper Hub",
       "tag": "Development",
       "description": "Wall4All is the ultimate wallpaper and ringtone app with a vast collection of HD wallpapers and trendy ringtones, offering users a diverse selection of options, including live wallpapers, and a unique coin-based reward system.",
@@ -52,7 +52,7 @@
     },
     {
       "id": 7,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/ss_card.png",
       "title": "App Analytics",
       "tag": "Development & Design System",
       "description": "App Analytics SDK provides high-accuracy data tracking and analytics, offering similar functionality to Firebase Analytics, AppMetrica, and AppsFlyer. Supports Unity, Flutter, Java, and Kotlin apps.",
@@ -60,7 +60,7 @@
     },
     {
       "id": 8,
-      "project_src": "https://cdn.dribbble.com/userupload/17574584/file/original-2fc345cc95f7add8e34ab2ecce83819c.jpg?resize=1024x768&vertical=center",
+      "project_src": "https://raw.githubusercontent.com/vijayjvvc/portfolio-backend/refs/heads/main/projects_images/ss_card.pngr",
       "title": "KeyMorphix - Wireless Keyboard",
       "tag": "Development",
       "description": "KeyMorphix is a wireless keyboard app built in Kotlin that allows users to control their Windows PC using their mobile phone. The app connects via WebSockets to a server app installed on the PC, transforming your phone into a full-functioning keyboard and touchpad.",
